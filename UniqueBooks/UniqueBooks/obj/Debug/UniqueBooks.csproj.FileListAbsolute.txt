@@ -1,0 +1,258 @@
+C:\Users\Rutvik Kikani\source\repos\UniqueBooks\UniqueBooks\bin\UniqueBooks.dll.config
+C:\Users\Rutvik Kikani\source\repos\UniqueBooks\UniqueBooks\bin\UniqueBooks.dll
+C:\Users\Rutvik Kikani\source\repos\UniqueBooks\UniqueBooks\bin\UniqueBooks.pdb
+C:\Users\Rutvik Kikani\source\repos\UniqueBooks\UniqueBooks\bin\roslyn\csc.exe
+C:\Users\Rutvik Kikani\source\repos\UniqueBooks\UniqueBooks\bin\roslyn\csc.exe.config
+C:\Users\Rutvik Kikani\source\repos\UniqueBooks\UniqueBooks\bin\roslyn\csc.rsp
+C:\Users\Rutvik Kikani\source\repos\UniqueBooks\UniqueBooks\bin\roslyn\csi.exe
+C:\Users\Rutvik Kikani\source\repos\UniqueBooks\UniqueBooks\bin\roslyn\csi.exe.config
+C:\Users\Rutvik Kikani\source\repos\UniqueBooks\UniqueBooks\bin\roslyn\csi.rsp
+C:\Users\Rutvik Kikani\source\repos\UniqueBooks\UniqueBooks\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Rutvik Kikani\source\repos\UniqueBooks\UniqueBooks\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Rutvik Kikani\source\repos\UniqueBooks\UniqueBooks\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Rutvik Kikani\source\repos\UniqueBooks\UniqueBooks\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Rutvik Kikani\source\repos\UniqueBooks\UniqueBooks\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Rutvik Kikani\source\repos\UniqueBooks\UniqueBooks\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Rutvik Kikani\source\repos\UniqueBooks\UniqueBooks\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Rutvik Kikani\source\repos\UniqueBooks\UniqueBooks\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Rutvik Kikani\source\repos\UniqueBooks\UniqueBooks\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Rutvik Kikani\source\repos\UniqueBooks\UniqueBooks\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Rutvik Kikani\source\repos\UniqueBooks\UniqueBooks\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Rutvik Kikani\source\repos\UniqueBooks\UniqueBooks\bin\roslyn\System.AppContext.dll
+C:\Users\Rutvik Kikani\source\repos\UniqueBooks\UniqueBooks\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Rutvik Kikani\source\repos\UniqueBooks\UniqueBooks\bin\roslyn\System.Console.dll
+C:\Users\Rutvik Kikani\source\repos\UniqueBooks\UniqueBooks\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Rutvik Kikani\source\repos\UniqueBooks\UniqueBooks\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Rutvik Kikani\source\repos\UniqueBooks\UniqueBooks\bin\roslyn\System.IO.Compression.dll
+C:\Users\Rutvik Kikani\source\repos\UniqueBooks\UniqueBooks\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Rutvik Kikani\source\repos\UniqueBooks\UniqueBooks\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Rutvik Kikani\source\repos\UniqueBooks\UniqueBooks\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Rutvik Kikani\source\repos\UniqueBooks\UniqueBooks\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Rutvik Kikani\source\repos\UniqueBooks\UniqueBooks\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Rutvik Kikani\source\repos\UniqueBooks\UniqueBooks\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Rutvik Kikani\source\repos\UniqueBooks\UniqueBooks\bin\roslyn\System.Security.Claims.dll
+C:\Users\Rutvik Kikani\source\repos\UniqueBooks\UniqueBooks\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Rutvik Kikani\source\repos\UniqueBooks\UniqueBooks\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Rutvik Kikani\source\repos\UniqueBooks\UniqueBooks\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Rutvik Kikani\source\repos\UniqueBooks\UniqueBooks\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Rutvik Kikani\source\repos\UniqueBooks\UniqueBooks\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Rutvik Kikani\source\repos\UniqueBooks\UniqueBooks\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Rutvik Kikani\source\repos\UniqueBooks\UniqueBooks\bin\roslyn\System.ValueTuple.dll
+C:\Users\Rutvik Kikani\source\repos\UniqueBooks\UniqueBooks\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Rutvik Kikani\source\repos\UniqueBooks\UniqueBooks\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Rutvik Kikani\source\repos\UniqueBooks\UniqueBooks\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Rutvik Kikani\source\repos\UniqueBooks\UniqueBooks\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Rutvik Kikani\source\repos\UniqueBooks\UniqueBooks\bin\roslyn\vbc.exe
+C:\Users\Rutvik Kikani\source\repos\UniqueBooks\UniqueBooks\bin\roslyn\vbc.exe.config
+C:\Users\Rutvik Kikani\source\repos\UniqueBooks\UniqueBooks\bin\roslyn\vbc.rsp
+C:\Users\Rutvik Kikani\source\repos\UniqueBooks\UniqueBooks\bin\roslyn\VBCSCompiler.exe
+C:\Users\Rutvik Kikani\source\repos\UniqueBooks\UniqueBooks\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Rutvik Kikani\source\repos\UniqueBooks\UniqueBooks\bin\Antlr3.Runtime.dll
+C:\Users\Rutvik Kikani\source\repos\UniqueBooks\UniqueBooks\bin\AutoMapper.dll
+C:\Users\Rutvik Kikani\source\repos\UniqueBooks\UniqueBooks\bin\EntityFramework.dll
+C:\Users\Rutvik Kikani\source\repos\UniqueBooks\UniqueBooks\bin\EntityFramework.SqlServer.dll
+C:\Users\Rutvik Kikani\source\repos\UniqueBooks\UniqueBooks\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Rutvik Kikani\source\repos\UniqueBooks\UniqueBooks\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Rutvik Kikani\source\repos\UniqueBooks\UniqueBooks\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Rutvik Kikani\source\repos\UniqueBooks\UniqueBooks\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Rutvik Kikani\source\repos\UniqueBooks\UniqueBooks\bin\Microsoft.Owin.dll
+C:\Users\Rutvik Kikani\source\repos\UniqueBooks\UniqueBooks\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Rutvik Kikani\source\repos\UniqueBooks\UniqueBooks\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Rutvik Kikani\source\repos\UniqueBooks\UniqueBooks\bin\Microsoft.Owin.Security.dll
+C:\Users\Rutvik Kikani\source\repos\UniqueBooks\UniqueBooks\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Rutvik Kikani\source\repos\UniqueBooks\UniqueBooks\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Rutvik Kikani\source\repos\UniqueBooks\UniqueBooks\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Rutvik Kikani\source\repos\UniqueBooks\UniqueBooks\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Rutvik Kikani\source\repos\UniqueBooks\UniqueBooks\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Rutvik Kikani\source\repos\UniqueBooks\UniqueBooks\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Rutvik Kikani\source\repos\UniqueBooks\UniqueBooks\bin\Newtonsoft.Json.dll
+C:\Users\Rutvik Kikani\source\repos\UniqueBooks\UniqueBooks\bin\Owin.dll
+C:\Users\Rutvik Kikani\source\repos\UniqueBooks\UniqueBooks\bin\System.Net.Http.Formatting.dll
+C:\Users\Rutvik Kikani\source\repos\UniqueBooks\UniqueBooks\bin\System.Web.Helpers.dll
+C:\Users\Rutvik Kikani\source\repos\UniqueBooks\UniqueBooks\bin\System.Web.Http.dll
+C:\Users\Rutvik Kikani\source\repos\UniqueBooks\UniqueBooks\bin\System.Web.Http.WebHost.dll
+C:\Users\Rutvik Kikani\source\repos\UniqueBooks\UniqueBooks\bin\System.Web.Mvc.dll
+C:\Users\Rutvik Kikani\source\repos\UniqueBooks\UniqueBooks\bin\System.Web.Optimization.dll
+C:\Users\Rutvik Kikani\source\repos\UniqueBooks\UniqueBooks\bin\System.Web.Razor.dll
+C:\Users\Rutvik Kikani\source\repos\UniqueBooks\UniqueBooks\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Rutvik Kikani\source\repos\UniqueBooks\UniqueBooks\bin\System.Web.WebPages.dll
+C:\Users\Rutvik Kikani\source\repos\UniqueBooks\UniqueBooks\bin\System.Web.WebPages.Razor.dll
+C:\Users\Rutvik Kikani\source\repos\UniqueBooks\UniqueBooks\bin\WebGrease.dll
+C:\Users\Rutvik Kikani\source\repos\UniqueBooks\UniqueBooks\bin\AutoMapper.xml
+C:\Users\Rutvik Kikani\source\repos\UniqueBooks\UniqueBooks\bin\System.Net.Http.Formatting.xml
+C:\Users\Rutvik Kikani\source\repos\UniqueBooks\UniqueBooks\bin\System.Web.Http.xml
+C:\Users\Rutvik Kikani\source\repos\UniqueBooks\UniqueBooks\bin\System.Web.Http.WebHost.xml
+C:\Users\Rutvik Kikani\source\repos\UniqueBooks\UniqueBooks\bin\System.Web.Helpers.xml
+C:\Users\Rutvik Kikani\source\repos\UniqueBooks\UniqueBooks\bin\System.Web.Mvc.xml
+C:\Users\Rutvik Kikani\source\repos\UniqueBooks\UniqueBooks\bin\System.Web.Optimization.xml
+C:\Users\Rutvik Kikani\source\repos\UniqueBooks\UniqueBooks\bin\System.Web.Razor.xml
+C:\Users\Rutvik Kikani\source\repos\UniqueBooks\UniqueBooks\bin\System.Web.WebPages.xml
+C:\Users\Rutvik Kikani\source\repos\UniqueBooks\UniqueBooks\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Rutvik Kikani\source\repos\UniqueBooks\UniqueBooks\bin\System.Web.WebPages.Razor.xml
+C:\Users\Rutvik Kikani\source\repos\UniqueBooks\UniqueBooks\bin\Newtonsoft.Json.xml
+C:\Users\Rutvik Kikani\source\repos\UniqueBooks\UniqueBooks\bin\Antlr3.Runtime.pdb
+C:\Users\Rutvik Kikani\source\repos\UniqueBooks\UniqueBooks\bin\EntityFramework.xml
+C:\Users\Rutvik Kikani\source\repos\UniqueBooks\UniqueBooks\bin\EntityFramework.SqlServer.xml
+C:\Users\Rutvik Kikani\source\repos\UniqueBooks\UniqueBooks\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Rutvik Kikani\source\repos\UniqueBooks\UniqueBooks\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Rutvik Kikani\source\repos\UniqueBooks\UniqueBooks\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Rutvik Kikani\source\repos\UniqueBooks\UniqueBooks\bin\Microsoft.Owin.xml
+C:\Users\Rutvik Kikani\source\repos\UniqueBooks\UniqueBooks\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Rutvik Kikani\source\repos\UniqueBooks\UniqueBooks\bin\Microsoft.Owin.Security.xml
+C:\Users\Rutvik Kikani\source\repos\UniqueBooks\UniqueBooks\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Rutvik Kikani\source\repos\UniqueBooks\UniqueBooks\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Rutvik Kikani\source\repos\UniqueBooks\UniqueBooks\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Rutvik Kikani\source\repos\UniqueBooks\UniqueBooks\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Rutvik Kikani\source\repos\UniqueBooks\UniqueBooks\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Rutvik Kikani\source\repos\UniqueBooks\UniqueBooks\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Rutvik Kikani\source\repos\UniqueBooks\UniqueBooks\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Rutvik Kikani\source\repos\UniqueBooks\UniqueBooks\obj\Debug\UniqueBooks.Migrations.InitialModel.resources
+C:\Users\Rutvik Kikani\source\repos\UniqueBooks\UniqueBooks\obj\Debug\UniqueBooks.Migrations.AddIsSubscribedToCustomer.resources
+C:\Users\Rutvik Kikani\source\repos\UniqueBooks\UniqueBooks\obj\Debug\UniqueBooks.Migrations.AddMemberShipType.resources
+C:\Users\Rutvik Kikani\source\repos\UniqueBooks\UniqueBooks\obj\Debug\UniqueBooks.Migrations.PopulateMembershipTypes.resources
+C:\Users\Rutvik Kikani\source\repos\UniqueBooks\UniqueBooks\obj\Debug\UniqueBooks.Migrations.ApplyAnnotationsToCustomerName.resources
+C:\Users\Rutvik Kikani\source\repos\UniqueBooks\UniqueBooks\obj\Debug\UniqueBooks.Migrations.AddNameToMembershipType.resources
+C:\Users\Rutvik Kikani\source\repos\UniqueBooks\UniqueBooks\obj\Debug\UniqueBooks.Migrations.SetNameOfMembershipTypes.resources
+C:\Users\Rutvik Kikani\source\repos\UniqueBooks\UniqueBooks\obj\Debug\UniqueBooks.Migrations.AddBirthdateToCustomer.resources
+C:\Users\Rutvik Kikani\source\repos\UniqueBooks\UniqueBooks\obj\Debug\UniqueBooks.Migrations.AddBookAndGenre.resources
+C:\Users\Rutvik Kikani\source\repos\UniqueBooks\UniqueBooks\obj\Debug\UniqueBooks.Migrations.SetNameOfGenre.resources
+C:\Users\Rutvik Kikani\source\repos\UniqueBooks\UniqueBooks\obj\Debug\UniqueBooks.csproj.GenerateResource.cache
+C:\Users\Rutvik Kikani\source\repos\UniqueBooks\UniqueBooks\obj\Debug\UniqueBooks.csproj.CoreCompileInputs.cache
+C:\Users\Rutvik Kikani\source\repos\UniqueBooks\UniqueBooks\obj\Debug\UniqueBooks.csproj.CopyComplete
+C:\Users\Rutvik Kikani\source\repos\UniqueBooks\UniqueBooks\obj\Debug\UniqueBooks.dll
+C:\Users\Rutvik Kikani\source\repos\UniqueBooks\UniqueBooks\obj\Debug\UniqueBooks.pdb
+C:\Users\Rutvik Kikani\source\repos\UniqueBooks\UniqueBooks\obj\Debug\UniqueBooks.csprojAssemblyReference.cache
+C:\Users\Rutvik Kikani\source\repos\UniqueBooks\UniqueBooks\obj\Debug\UniqueBooks.Migrations.SeedUsers.resources
+C:\Users\Rutvik Kikani\source\repos\UniqueBooks\UniqueBooks\obj\Debug\UniqueBooks.Migrations.AddPhoneToApplicationUser.resources
+C:\Users\Rutvik Kikani\source\repos\UniqueBooks\UniqueBooks\obj\Debug\UniqueBooks.Migrations.AddRentalsDomain.resources
+C:\Users\Rutvik Kikani\source\repos\UniqueBooks\UniqueBooks\obj\Debug\UniqueBooks.Migrations.AddNumberAvailableToBookDomain.resources
+C:\Users\Rutvik Kikani\source\repos\UniqueBooks\UniqueBooks\obj\Debug\UniqueBooks.Migrations.ModifyRentalDomain.resources
+D:\dhiraj\Sem-5\WDDN\Unique-Book\UniqueBooks\UniqueBooks\bin\UniqueBooks.dll.config
+D:\dhiraj\Sem-5\WDDN\Unique-Book\UniqueBooks\UniqueBooks\bin\UniqueBooks.dll
+D:\dhiraj\Sem-5\WDDN\Unique-Book\UniqueBooks\UniqueBooks\bin\UniqueBooks.pdb
+D:\dhiraj\Sem-5\WDDN\Unique-Book\UniqueBooks\UniqueBooks\bin\roslyn\csc.exe
+D:\dhiraj\Sem-5\WDDN\Unique-Book\UniqueBooks\UniqueBooks\bin\roslyn\csc.exe.config
+D:\dhiraj\Sem-5\WDDN\Unique-Book\UniqueBooks\UniqueBooks\bin\roslyn\csc.rsp
+D:\dhiraj\Sem-5\WDDN\Unique-Book\UniqueBooks\UniqueBooks\bin\roslyn\csi.exe
+D:\dhiraj\Sem-5\WDDN\Unique-Book\UniqueBooks\UniqueBooks\bin\roslyn\csi.exe.config
+D:\dhiraj\Sem-5\WDDN\Unique-Book\UniqueBooks\UniqueBooks\bin\roslyn\csi.rsp
+D:\dhiraj\Sem-5\WDDN\Unique-Book\UniqueBooks\UniqueBooks\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\dhiraj\Sem-5\WDDN\Unique-Book\UniqueBooks\UniqueBooks\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\dhiraj\Sem-5\WDDN\Unique-Book\UniqueBooks\UniqueBooks\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\dhiraj\Sem-5\WDDN\Unique-Book\UniqueBooks\UniqueBooks\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\dhiraj\Sem-5\WDDN\Unique-Book\UniqueBooks\UniqueBooks\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\dhiraj\Sem-5\WDDN\Unique-Book\UniqueBooks\UniqueBooks\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\dhiraj\Sem-5\WDDN\Unique-Book\UniqueBooks\UniqueBooks\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\dhiraj\Sem-5\WDDN\Unique-Book\UniqueBooks\UniqueBooks\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\dhiraj\Sem-5\WDDN\Unique-Book\UniqueBooks\UniqueBooks\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\dhiraj\Sem-5\WDDN\Unique-Book\UniqueBooks\UniqueBooks\bin\roslyn\Microsoft.Managed.Core.targets
+D:\dhiraj\Sem-5\WDDN\Unique-Book\UniqueBooks\UniqueBooks\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\dhiraj\Sem-5\WDDN\Unique-Book\UniqueBooks\UniqueBooks\bin\roslyn\System.AppContext.dll
+D:\dhiraj\Sem-5\WDDN\Unique-Book\UniqueBooks\UniqueBooks\bin\roslyn\System.Collections.Immutable.dll
+D:\dhiraj\Sem-5\WDDN\Unique-Book\UniqueBooks\UniqueBooks\bin\roslyn\System.Console.dll
+D:\dhiraj\Sem-5\WDDN\Unique-Book\UniqueBooks\UniqueBooks\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\dhiraj\Sem-5\WDDN\Unique-Book\UniqueBooks\UniqueBooks\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\dhiraj\Sem-5\WDDN\Unique-Book\UniqueBooks\UniqueBooks\bin\roslyn\System.IO.Compression.dll
+D:\dhiraj\Sem-5\WDDN\Unique-Book\UniqueBooks\UniqueBooks\bin\roslyn\System.IO.FileSystem.dll
+D:\dhiraj\Sem-5\WDDN\Unique-Book\UniqueBooks\UniqueBooks\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\dhiraj\Sem-5\WDDN\Unique-Book\UniqueBooks\UniqueBooks\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\dhiraj\Sem-5\WDDN\Unique-Book\UniqueBooks\UniqueBooks\bin\roslyn\System.IO.Pipes.dll
+D:\dhiraj\Sem-5\WDDN\Unique-Book\UniqueBooks\UniqueBooks\bin\roslyn\System.Reflection.Metadata.dll
+D:\dhiraj\Sem-5\WDDN\Unique-Book\UniqueBooks\UniqueBooks\bin\roslyn\System.Security.AccessControl.dll
+D:\dhiraj\Sem-5\WDDN\Unique-Book\UniqueBooks\UniqueBooks\bin\roslyn\System.Security.Claims.dll
+D:\dhiraj\Sem-5\WDDN\Unique-Book\UniqueBooks\UniqueBooks\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\dhiraj\Sem-5\WDDN\Unique-Book\UniqueBooks\UniqueBooks\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\dhiraj\Sem-5\WDDN\Unique-Book\UniqueBooks\UniqueBooks\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\dhiraj\Sem-5\WDDN\Unique-Book\UniqueBooks\UniqueBooks\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\dhiraj\Sem-5\WDDN\Unique-Book\UniqueBooks\UniqueBooks\bin\roslyn\System.Security.Principal.Windows.dll
+D:\dhiraj\Sem-5\WDDN\Unique-Book\UniqueBooks\UniqueBooks\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\dhiraj\Sem-5\WDDN\Unique-Book\UniqueBooks\UniqueBooks\bin\roslyn\System.ValueTuple.dll
+D:\dhiraj\Sem-5\WDDN\Unique-Book\UniqueBooks\UniqueBooks\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\dhiraj\Sem-5\WDDN\Unique-Book\UniqueBooks\UniqueBooks\bin\roslyn\System.Xml.XmlDocument.dll
+D:\dhiraj\Sem-5\WDDN\Unique-Book\UniqueBooks\UniqueBooks\bin\roslyn\System.Xml.XPath.dll
+D:\dhiraj\Sem-5\WDDN\Unique-Book\UniqueBooks\UniqueBooks\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\dhiraj\Sem-5\WDDN\Unique-Book\UniqueBooks\UniqueBooks\bin\roslyn\vbc.exe
+D:\dhiraj\Sem-5\WDDN\Unique-Book\UniqueBooks\UniqueBooks\bin\roslyn\vbc.exe.config
+D:\dhiraj\Sem-5\WDDN\Unique-Book\UniqueBooks\UniqueBooks\bin\roslyn\vbc.rsp
+D:\dhiraj\Sem-5\WDDN\Unique-Book\UniqueBooks\UniqueBooks\bin\roslyn\VBCSCompiler.exe
+D:\dhiraj\Sem-5\WDDN\Unique-Book\UniqueBooks\UniqueBooks\bin\roslyn\VBCSCompiler.exe.config
+D:\dhiraj\Sem-5\WDDN\Unique-Book\UniqueBooks\UniqueBooks\bin\Antlr3.Runtime.dll
+D:\dhiraj\Sem-5\WDDN\Unique-Book\UniqueBooks\UniqueBooks\bin\AutoMapper.dll
+D:\dhiraj\Sem-5\WDDN\Unique-Book\UniqueBooks\UniqueBooks\bin\EntityFramework.dll
+D:\dhiraj\Sem-5\WDDN\Unique-Book\UniqueBooks\UniqueBooks\bin\EntityFramework.SqlServer.dll
+D:\dhiraj\Sem-5\WDDN\Unique-Book\UniqueBooks\UniqueBooks\bin\Microsoft.AspNet.Identity.Core.dll
+D:\dhiraj\Sem-5\WDDN\Unique-Book\UniqueBooks\UniqueBooks\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\dhiraj\Sem-5\WDDN\Unique-Book\UniqueBooks\UniqueBooks\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\dhiraj\Sem-5\WDDN\Unique-Book\UniqueBooks\UniqueBooks\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\dhiraj\Sem-5\WDDN\Unique-Book\UniqueBooks\UniqueBooks\bin\Microsoft.Owin.dll
+D:\dhiraj\Sem-5\WDDN\Unique-Book\UniqueBooks\UniqueBooks\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\dhiraj\Sem-5\WDDN\Unique-Book\UniqueBooks\UniqueBooks\bin\Microsoft.Owin.Security.Cookies.dll
+D:\dhiraj\Sem-5\WDDN\Unique-Book\UniqueBooks\UniqueBooks\bin\Microsoft.Owin.Security.dll
+D:\dhiraj\Sem-5\WDDN\Unique-Book\UniqueBooks\UniqueBooks\bin\Microsoft.Owin.Security.Facebook.dll
+D:\dhiraj\Sem-5\WDDN\Unique-Book\UniqueBooks\UniqueBooks\bin\Microsoft.Owin.Security.Google.dll
+D:\dhiraj\Sem-5\WDDN\Unique-Book\UniqueBooks\UniqueBooks\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\dhiraj\Sem-5\WDDN\Unique-Book\UniqueBooks\UniqueBooks\bin\Microsoft.Owin.Security.OAuth.dll
+D:\dhiraj\Sem-5\WDDN\Unique-Book\UniqueBooks\UniqueBooks\bin\Microsoft.Owin.Security.Twitter.dll
+D:\dhiraj\Sem-5\WDDN\Unique-Book\UniqueBooks\UniqueBooks\bin\Microsoft.Web.Infrastructure.dll
+D:\dhiraj\Sem-5\WDDN\Unique-Book\UniqueBooks\UniqueBooks\bin\Newtonsoft.Json.dll
+D:\dhiraj\Sem-5\WDDN\Unique-Book\UniqueBooks\UniqueBooks\bin\Owin.dll
+D:\dhiraj\Sem-5\WDDN\Unique-Book\UniqueBooks\UniqueBooks\bin\System.Net.Http.Formatting.dll
+D:\dhiraj\Sem-5\WDDN\Unique-Book\UniqueBooks\UniqueBooks\bin\System.Web.Helpers.dll
+D:\dhiraj\Sem-5\WDDN\Unique-Book\UniqueBooks\UniqueBooks\bin\System.Web.Http.dll
+D:\dhiraj\Sem-5\WDDN\Unique-Book\UniqueBooks\UniqueBooks\bin\System.Web.Http.WebHost.dll
+D:\dhiraj\Sem-5\WDDN\Unique-Book\UniqueBooks\UniqueBooks\bin\System.Web.Mvc.dll
+D:\dhiraj\Sem-5\WDDN\Unique-Book\UniqueBooks\UniqueBooks\bin\System.Web.Optimization.dll
+D:\dhiraj\Sem-5\WDDN\Unique-Book\UniqueBooks\UniqueBooks\bin\System.Web.Razor.dll
+D:\dhiraj\Sem-5\WDDN\Unique-Book\UniqueBooks\UniqueBooks\bin\System.Web.WebPages.Deployment.dll
+D:\dhiraj\Sem-5\WDDN\Unique-Book\UniqueBooks\UniqueBooks\bin\System.Web.WebPages.dll
+D:\dhiraj\Sem-5\WDDN\Unique-Book\UniqueBooks\UniqueBooks\bin\System.Web.WebPages.Razor.dll
+D:\dhiraj\Sem-5\WDDN\Unique-Book\UniqueBooks\UniqueBooks\bin\WebGrease.dll
+D:\dhiraj\Sem-5\WDDN\Unique-Book\UniqueBooks\UniqueBooks\bin\AutoMapper.xml
+D:\dhiraj\Sem-5\WDDN\Unique-Book\UniqueBooks\UniqueBooks\bin\System.Net.Http.Formatting.xml
+D:\dhiraj\Sem-5\WDDN\Unique-Book\UniqueBooks\UniqueBooks\bin\System.Web.Http.xml
+D:\dhiraj\Sem-5\WDDN\Unique-Book\UniqueBooks\UniqueBooks\bin\System.Web.Http.WebHost.xml
+D:\dhiraj\Sem-5\WDDN\Unique-Book\UniqueBooks\UniqueBooks\bin\System.Web.Helpers.xml
+D:\dhiraj\Sem-5\WDDN\Unique-Book\UniqueBooks\UniqueBooks\bin\System.Web.Mvc.xml
+D:\dhiraj\Sem-5\WDDN\Unique-Book\UniqueBooks\UniqueBooks\bin\System.Web.Optimization.xml
+D:\dhiraj\Sem-5\WDDN\Unique-Book\UniqueBooks\UniqueBooks\bin\System.Web.Razor.xml
+D:\dhiraj\Sem-5\WDDN\Unique-Book\UniqueBooks\UniqueBooks\bin\System.Web.WebPages.xml
+D:\dhiraj\Sem-5\WDDN\Unique-Book\UniqueBooks\UniqueBooks\bin\System.Web.WebPages.Deployment.xml
+D:\dhiraj\Sem-5\WDDN\Unique-Book\UniqueBooks\UniqueBooks\bin\System.Web.WebPages.Razor.xml
+D:\dhiraj\Sem-5\WDDN\Unique-Book\UniqueBooks\UniqueBooks\bin\Newtonsoft.Json.xml
+D:\dhiraj\Sem-5\WDDN\Unique-Book\UniqueBooks\UniqueBooks\bin\Antlr3.Runtime.pdb
+D:\dhiraj\Sem-5\WDDN\Unique-Book\UniqueBooks\UniqueBooks\bin\EntityFramework.xml
+D:\dhiraj\Sem-5\WDDN\Unique-Book\UniqueBooks\UniqueBooks\bin\EntityFramework.SqlServer.xml
+D:\dhiraj\Sem-5\WDDN\Unique-Book\UniqueBooks\UniqueBooks\bin\Microsoft.AspNet.Identity.Core.xml
+D:\dhiraj\Sem-5\WDDN\Unique-Book\UniqueBooks\UniqueBooks\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\dhiraj\Sem-5\WDDN\Unique-Book\UniqueBooks\UniqueBooks\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\dhiraj\Sem-5\WDDN\Unique-Book\UniqueBooks\UniqueBooks\bin\Microsoft.Owin.xml
+D:\dhiraj\Sem-5\WDDN\Unique-Book\UniqueBooks\UniqueBooks\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\dhiraj\Sem-5\WDDN\Unique-Book\UniqueBooks\UniqueBooks\bin\Microsoft.Owin.Security.xml
+D:\dhiraj\Sem-5\WDDN\Unique-Book\UniqueBooks\UniqueBooks\bin\Microsoft.Owin.Security.Facebook.xml
+D:\dhiraj\Sem-5\WDDN\Unique-Book\UniqueBooks\UniqueBooks\bin\Microsoft.Owin.Security.Cookies.xml
+D:\dhiraj\Sem-5\WDDN\Unique-Book\UniqueBooks\UniqueBooks\bin\Microsoft.Owin.Security.Google.xml
+D:\dhiraj\Sem-5\WDDN\Unique-Book\UniqueBooks\UniqueBooks\bin\Microsoft.Owin.Security.Twitter.xml
+D:\dhiraj\Sem-5\WDDN\Unique-Book\UniqueBooks\UniqueBooks\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\dhiraj\Sem-5\WDDN\Unique-Book\UniqueBooks\UniqueBooks\bin\Microsoft.Owin.Security.OAuth.xml
+D:\dhiraj\Sem-5\WDDN\Unique-Book\UniqueBooks\UniqueBooks\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\dhiraj\Sem-5\WDDN\Unique-Book\UniqueBooks\UniqueBooks\obj\Debug\UniqueBooks.csprojAssemblyReference.cache
+D:\dhiraj\Sem-5\WDDN\Unique-Book\UniqueBooks\UniqueBooks\obj\Debug\UniqueBooks.Migrations.InitialModel.resources
+D:\dhiraj\Sem-5\WDDN\Unique-Book\UniqueBooks\UniqueBooks\obj\Debug\UniqueBooks.Migrations.AddIsSubscribedToCustomer.resources
+D:\dhiraj\Sem-5\WDDN\Unique-Book\UniqueBooks\UniqueBooks\obj\Debug\UniqueBooks.Migrations.AddMemberShipType.resources
+D:\dhiraj\Sem-5\WDDN\Unique-Book\UniqueBooks\UniqueBooks\obj\Debug\UniqueBooks.Migrations.PopulateMembershipTypes.resources
+D:\dhiraj\Sem-5\WDDN\Unique-Book\UniqueBooks\UniqueBooks\obj\Debug\UniqueBooks.Migrations.ApplyAnnotationsToCustomerName.resources
+D:\dhiraj\Sem-5\WDDN\Unique-Book\UniqueBooks\UniqueBooks\obj\Debug\UniqueBooks.Migrations.AddNameToMembershipType.resources
+D:\dhiraj\Sem-5\WDDN\Unique-Book\UniqueBooks\UniqueBooks\obj\Debug\UniqueBooks.Migrations.SetNameOfMembershipTypes.resources
+D:\dhiraj\Sem-5\WDDN\Unique-Book\UniqueBooks\UniqueBooks\obj\Debug\UniqueBooks.Migrations.AddBirthdateToCustomer.resources
+D:\dhiraj\Sem-5\WDDN\Unique-Book\UniqueBooks\UniqueBooks\obj\Debug\UniqueBooks.Migrations.AddBookAndGenre.resources
+D:\dhiraj\Sem-5\WDDN\Unique-Book\UniqueBooks\UniqueBooks\obj\Debug\UniqueBooks.Migrations.SetNameOfGenre.resources
+D:\dhiraj\Sem-5\WDDN\Unique-Book\UniqueBooks\UniqueBooks\obj\Debug\UniqueBooks.Migrations.SeedUsers.resources
+D:\dhiraj\Sem-5\WDDN\Unique-Book\UniqueBooks\UniqueBooks\obj\Debug\UniqueBooks.Migrations.AddPhoneToApplicationUser.resources
+D:\dhiraj\Sem-5\WDDN\Unique-Book\UniqueBooks\UniqueBooks\obj\Debug\UniqueBooks.Migrations.AddRentalsDomain.resources
+D:\dhiraj\Sem-5\WDDN\Unique-Book\UniqueBooks\UniqueBooks\obj\Debug\UniqueBooks.Migrations.AddNumberAvailableToBookDomain.resources
+D:\dhiraj\Sem-5\WDDN\Unique-Book\UniqueBooks\UniqueBooks\obj\Debug\UniqueBooks.Migrations.ModifyRentalDomain.resources
+D:\dhiraj\Sem-5\WDDN\Unique-Book\UniqueBooks\UniqueBooks\obj\Debug\UniqueBooks.csproj.GenerateResource.cache
+D:\dhiraj\Sem-5\WDDN\Unique-Book\UniqueBooks\UniqueBooks\obj\Debug\UniqueBooks.csproj.CoreCompileInputs.cache
+D:\dhiraj\Sem-5\WDDN\Unique-Book\UniqueBooks\UniqueBooks\obj\Debug\UniqueBooks.csproj.CopyComplete
+D:\dhiraj\Sem-5\WDDN\Unique-Book\UniqueBooks\UniqueBooks\obj\Debug\UniqueBooks.dll
+D:\dhiraj\Sem-5\WDDN\Unique-Book\UniqueBooks\UniqueBooks\obj\Debug\UniqueBooks.pdb
